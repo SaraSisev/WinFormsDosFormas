@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\saraa\\OneDrive\\Desktop\\UAA\\Programacion II\\CursoC#\\unidad3\\Practicas\\WinFormsDosFormas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4277322A-EAB4-4703-8753-5CC4E2399421}|WinFormsDosFormas\\WinFormsDosFormas.csproj|D:\\Users\\saraa\\OneDrive\\Desktop\\UAA\\Programacion II\\CursoC#\\unidad3\\Practicas\\WinFormsDosFormas\\winformsdosformas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4277322A-EAB4-4703-8753-5CC4E2399421}|WinFormsDosFormas\\WinFormsDosFormas.csproj|solutionrelative:winformsdosformas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4277322A-EAB4-4703-8753-5CC4E2399421}|WinFormsDosFormas\\WinFormsDosFormas.csproj|d:\\users\\saraa\\onedrive\\desktop\\uaa\\programacion ii\\cursoc#\\unidad3\\practicas\\winformsdosformas\\winformsdosformas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4277322A-EAB4-4703-8753-5CC4E2399421}|WinFormsDosFormas\\WinFormsDosFormas.csproj|solutionrelative:winformsdosformas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4277322A-EAB4-4703-8753-5CC4E2399421}|WinFormsDosFormas\\WinFormsDosFormas.csproj|d:\\users\\saraa\\onedrive\\desktop\\uaa\\programacion ii\\cursoc#\\unidad3\\practicas\\winformsdosformas\\winformsdosformas\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4277322A-EAB4-4703-8753-5CC4E2399421}|WinFormsDosFormas\\WinFormsDosFormas.csproj|solutionrelative:winformsdosformas\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4277322A-EAB4-4703-8753-5CC4E2399421}|WinFormsDosFormas\\WinFormsDosFormas.csproj|d:\\users\\saraa\\onedrive\\desktop\\uaa\\programacion ii\\cursoc#\\unidad3\\practicas\\winformsdosformas\\winformsdosformas\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4277322A-EAB4-4703-8753-5CC4E2399421}|WinFormsDosFormas\\WinFormsDosFormas.csproj|solutionrelative:winformsdosformas\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4277322A-EAB4-4703-8753-5CC4E2399421}|WinFormsDosFormas\\WinFormsDosFormas.csproj|d:\\users\\saraa\\onedrive\\desktop\\uaa\\programacion ii\\cursoc#\\unidad3\\practicas\\winformsdosformas\\winformsdosformas\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4277322A-EAB4-4703-8753-5CC4E2399421}|WinFormsDosFormas\\WinFormsDosFormas.csproj|solutionrelative:winformsdosformas\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4277322A-EAB4-4703-8753-5CC4E2399421}|WinFormsDosFormas\\WinFormsDosFormas.csproj|d:\\users\\saraa\\onedrive\\desktop\\uaa\\programacion ii\\cursoc#\\unidad3\\practicas\\winformsdosformas\\winformsdosformas\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4277322A-EAB4-4703-8753-5CC4E2399421}|WinFormsDosFormas\\WinFormsDosFormas.csproj|solutionrelative:winformsdosformas\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "D:\\Users\\saraa\\OneDrive\\Desktop\\UAA\\Programacion II\\CursoC#\\unidad3\\Practicas\\WinFormsDosFormas\\WinFormsDosFormas\\Form3.cs",
+              "RelativeDocumentMoniker": "WinFormsDosFormas\\Form3.cs",
+              "ToolTip": "D:\\Users\\saraa\\OneDrive\\Desktop\\UAA\\Programacion II\\CursoC#\\unidad3\\Practicas\\WinFormsDosFormas\\WinFormsDosFormas\\Form3.cs",
+              "RelativeToolTip": "WinFormsDosFormas\\Form3.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAhwBsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T21:20:34.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Users\\saraa\\OneDrive\\Desktop\\UAA\\Programacion II\\CursoC#\\unidad3\\Practicas\\WinFormsDosFormas\\WinFormsDosFormas\\Form3.cs",
+              "RelativeDocumentMoniker": "WinFormsDosFormas\\Form3.cs",
+              "ToolTip": "D:\\Users\\saraa\\OneDrive\\Desktop\\UAA\\Programacion II\\CursoC#\\unidad3\\Practicas\\WinFormsDosFormas\\WinFormsDosFormas\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinFormsDosFormas\\Form3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T21:06:38.922Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\Users\\saraa\\OneDrive\\Desktop\\UAA\\Programacion II\\CursoC#\\unidad3\\Practicas\\WinFormsDosFormas\\WinFormsDosFormas\\Form2.cs",
+              "RelativeDocumentMoniker": "WinFormsDosFormas\\Form2.cs",
+              "ToolTip": "D:\\Users\\saraa\\OneDrive\\Desktop\\UAA\\Programacion II\\CursoC#\\unidad3\\Practicas\\WinFormsDosFormas\\WinFormsDosFormas\\Form2.cs",
+              "RelativeToolTip": "WinFormsDosFormas\\Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:51:05.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Users\\saraa\\OneDrive\\Desktop\\UAA\\Programacion II\\CursoC#\\unidad3\\Practicas\\WinFormsDosFormas\\WinFormsDosFormas\\Form2.cs",
+              "RelativeDocumentMoniker": "WinFormsDosFormas\\Form2.cs",
+              "ToolTip": "D:\\Users\\saraa\\OneDrive\\Desktop\\UAA\\Programacion II\\CursoC#\\unidad3\\Practicas\\WinFormsDosFormas\\WinFormsDosFormas\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinFormsDosFormas\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:43:09.53Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Users\\saraa\\OneDrive\\Desktop\\UAA\\Programacion II\\CursoC#\\unidad3\\Practicas\\WinFormsDosFormas\\WinFormsDosFormas\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsDosFormas\\Form1.cs",
+              "ToolTip": "D:\\Users\\saraa\\OneDrive\\Desktop\\UAA\\Programacion II\\CursoC#\\unidad3\\Practicas\\WinFormsDosFormas\\WinFormsDosFormas\\Form1.cs",
+              "RelativeToolTip": "WinFormsDosFormas\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:33:39.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Users\\saraa\\OneDrive\\Desktop\\UAA\\Programacion II\\CursoC#\\unidad3\\Practicas\\WinFormsDosFormas\\WinFormsDosFormas\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsDosFormas\\Form1.cs",
+              "ToolTip": "D:\\Users\\saraa\\OneDrive\\Desktop\\UAA\\Programacion II\\CursoC#\\unidad3\\Practicas\\WinFormsDosFormas\\WinFormsDosFormas\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinFormsDosFormas\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:20:12.514Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
